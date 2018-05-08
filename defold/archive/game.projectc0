@@ -5,7 +5,7 @@ main_collection = /main/main.collectionc
 shared_state = 1
 
 [project]
-title = FirstStep
+title = Wormhole
 
 [display]
 width = 320
