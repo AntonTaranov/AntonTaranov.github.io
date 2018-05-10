@@ -1,0 +1,28 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	PlayFont: {
+		file: 48_Play-Regular.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	RGBA_191_191_191_255: {
+		r: 0.75
+		g: 0.75
+		b: 0.75
+		a: 1
+	}
+	RGBA_255_255_255_255: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: PlayFont
+		fontColor: RGBA_255_255_255_255
+		downFontColor: RGBA_191_191_191_255
+	}
+}
+}
