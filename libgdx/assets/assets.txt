@@ -1,7 +1,8 @@
 d:assets:0:application/unknown
-t:48_Play-Regular.fnt:17370:application/unknown
-t:basic_skin.atlas:198:application/unknown
-t:basic_skin.json:543:application/unknown
+t:48_Play-Regular.fnt:17207:application/unknown
+i:background.png:43579:image/png
+t:basic_skin.atlas:185:application/unknown
+t:basic_skin.json:511:application/unknown
 i:basic_skin.png:40007:image/png
 i:blue_circle.png:497:image/png
 i:food.png:290:image/png
