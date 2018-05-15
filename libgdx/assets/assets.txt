@@ -7,6 +7,7 @@ i:basic_skin.png:40007:image/png
 i:blue_circle.png:497:image/png
 i:food.png:290:image/png
 i:hole_back.png:189:image/png
+i:menu_background.png:89184:image/png
 i:pixel.png:150:image/png
 i:Play-Regular.png:50100:image/png
 i:truck00.png:583:image/png
