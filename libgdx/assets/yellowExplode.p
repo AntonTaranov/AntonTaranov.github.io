@@ -152,8 +152,8 @@ timeline3: 1.0
 - Transparency - 
 lowMin: 0.0
 lowMax: 0.0
-highMin: 1.0
-highMax: 1.0
+highMin: 0.5
+highMax: 0.5
 relative: false
 scalingCount: 4
 scaling0: 1.0

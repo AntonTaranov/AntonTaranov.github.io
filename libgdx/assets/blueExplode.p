@@ -156,8 +156,8 @@ highMin: 1.0
 highMax: 1.0
 relative: false
 scalingCount: 4
-scaling0: 1.0
-scaling1: 1.0
+scaling0: 0.5
+scaling1: 0.5
 scaling2: 0.75
 scaling3: 0.0
 timelineCount: 4
