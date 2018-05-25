@@ -11,11 +11,18 @@ background
   orig: 320, 480
   offset: 0, 0
   index: -1
-blue_circle
+comet
   rotate: false
-  xy: 454, 480
-  size: 32, 32
-  orig: 32, 32
+  xy: 324, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+earth
+  rotate: false
+  xy: 324, 384
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 food
@@ -34,21 +41,21 @@ hole_back
   index: -1
 pixel
   rotate: false
-  xy: 324, 279
+  xy: 324, 121
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 rocket_trail
   rotate: false
-  xy: 324, 282
+  xy: 454, 412
   size: 20, 100
   orig: 20, 100
   offset: 0, 0
   index: -1
 smoke
   rotate: false
-  xy: 324, 384
+  xy: 324, 254
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
