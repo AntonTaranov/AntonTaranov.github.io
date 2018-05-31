@@ -13,14 +13,14 @@ background
   index: -1
 comet
   rotate: false
-  xy: 324, 2
+  xy: 786, 384
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 earth
   rotate: false
-  xy: 324, 262
+  xy: 324, 206
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -39,6 +39,20 @@ hole_back
   orig: 1, 10
   offset: 0, 0
   index: -1
+mars
+  rotate: false
+  xy: 526, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+mercury
+  rotate: false
+  xy: 324, 76
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 navigator_bg
   rotate: false
   xy: 324, 392
@@ -48,35 +62,42 @@ navigator_bg
   index: -1
 navigator_door
   rotate: false
-  xy: 526, 387
+  xy: 916, 443
   size: 100, 69
   orig: 100, 69
   offset: 0, 0
   index: -1
 navigator_label_bg
   rotate: false
-  xy: 526, 458
+  xy: 324, 336
   size: 162, 54
   orig: 162, 54
   offset: 0, 0
   index: -1
 pixel
   rotate: false
-  xy: 690, 511
+  xy: 324, 73
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 rocket_trail
   rotate: false
-  xy: 454, 290
+  xy: 454, 104
   size: 20, 100
   orig: 20, 100
   offset: 0, 0
   index: -1
 smoke
   rotate: false
-  xy: 324, 132
+  xy: 656, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+venus
+  rotate: false
+  xy: 454, 206
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
