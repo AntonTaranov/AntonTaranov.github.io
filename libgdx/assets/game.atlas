@@ -18,6 +18,13 @@ comet
   orig: 128, 128
   offset: 0, 0
   index: -1
+defence_rocket
+  rotate: false
+  xy: 454, 63
+  size: 60, 141
+  orig: 60, 141
+  offset: 0, 0
+  index: -1
 earth
   rotate: false
   xy: 324, 206
@@ -76,14 +83,14 @@ navigator_label_bg
   index: -1
 pixel
   rotate: false
-  xy: 324, 73
+  xy: 488, 389
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 rocket_trail
   rotate: false
-  xy: 454, 104
+  xy: 516, 104
   size: 20, 100
   orig: 20, 100
   offset: 0, 0
