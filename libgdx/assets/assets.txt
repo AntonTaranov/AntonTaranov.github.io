@@ -5,8 +5,8 @@ t:basic_skin.atlas:185:application/unknown
 t:basic_skin.json:511:application/unknown
 i:basic_skin.png:40007:image/png
 b:blueExplode.p:2690:application/unknown
-t:game.atlas:1566:application/unknown
-i:game.png:280122:image/png
+t:game.atlas:2155:application/unknown
+i:game.png:377412:image/png
 i:menu_background.png:89184:image/png
 i:Play-Regular.png:50100:image/png
 b:smoke.p:7183:application/unknown
