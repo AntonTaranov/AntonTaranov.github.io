@@ -43,7 +43,7 @@
       }
 
       const googleMapsScript = document.createElement("script");
-      googleMapsScript.src = `https://maps.googleapis.com/maps/api/js?key=${encodeURIComponent(googleMapsApiKey)}&v=weekly`;
+      googleMapsScript.src = `https://maps.googleapis.com/maps/api/js?key=${encodeURIComponent(googleMapsApiKey)}&v=weekly&libraries=marker`;
       googleMapsScript.async = true;
       document.head.appendChild(googleMapsScript);
     })();
